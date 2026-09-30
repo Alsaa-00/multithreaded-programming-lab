@@ -1,0 +1,14 @@
+*.o
+pthread_perf
+omp_perf
+sequential_run
+thread1
+thread2
+thread_sum
+race
+mutex
+omp1
+omp_sum
+omp_race
+omp_critical
+omp_barrier
